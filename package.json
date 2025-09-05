@@ -27,6 +27,6 @@
     "nodemon": "^3.1.10"
   },
   "overrides": {
-    "path-to-regexp" : "6.3.0"
+    "path-to-regexp": "6.3.0"
   }
 }
